@@ -1,10 +1,4 @@
 
-## Current Focus
-
-- Developing IoT systems with ESP32  
-- Improving backend development skills  
-- Building real-world projects for practical experience  
-
 ## GitHub Metrics
 
 <p align="center">
@@ -35,10 +29,6 @@
 │   ├── Database : MySQL
 │   └── Toolkit  : Git, GitHub, Android Studio, VS Code
 ```
-
-## Contact
-
-- GitHub: https://github.com/kixmbap
 
 <p align="center">
   <a href="https://github.com/kixmbap">
