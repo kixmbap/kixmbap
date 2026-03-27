@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" alt="dino game" />
-</p>
+</p> -->
 
 ## GitHub Metrics
 
